@@ -1,7 +1,7 @@
 // include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateSVG = require("./utils/generateSVG");
+const generateSVG = require("./lib/generateSVG");
 
 // questions that will prompt the user
 const questions = [
