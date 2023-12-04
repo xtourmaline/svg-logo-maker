@@ -28,6 +28,7 @@ const questions = [
     }
 ]
 
+// function that writes SVG file
 function writeToFile(fileName, data) {
     content = generateSVG(data);
     fs.writeFile(fileName, content, (err) => err ? console.log(err) : console.log('Success!'));
