@@ -1,5 +1,7 @@
 
 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="150" cy="100" r="100" fill="blue" />
-    <text text-anchor="middle" x="150" y="130" font-size="100" fill="white">lma</text>
+    <rect x="50" y="0" width="200" height="200" fill="pink" />
+    
+        <text text-anchor="middle" x="150" y="130" font-size="90" fill="black">EX3</text>
+        
 </svg>
